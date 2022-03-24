@@ -4,7 +4,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Resources
 * Data Source: LoanStats_2019Q1.csv
-* Software & Tools: Python, Jupyter Lab 
+* Software & Tools: Machine Learning Models, Python, Jupyter Lab 
 
 ## Results 
 
